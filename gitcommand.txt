@@ -1,0 +1,5 @@
+git initn  -> To initialize git local repository
+git remote add origin <URL>  -> To add remote repository path 
+git add .  -> To add all the modified files 
+git commit -am "Message"  -> To commit with relevent messages
+git push origin <branch name>  -> To push to the remore origin
